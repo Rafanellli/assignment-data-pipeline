@@ -1,0 +1,4 @@
+.env
+.sesi3/
+*.pyc
+__pycache__/
